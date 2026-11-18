@@ -24,3 +24,10 @@ Bu proje, Stellar Soroban akıllı sözleşmelerini analiz eden, açık kaynakl�
     ```bash
     streamlit run app.py
     ```
+
+
+<img width="1909" height="969" alt="screenshot1" src="https://github.com/user-attachments/assets/b08b0357-82aa-47ef-87dd-df2cda056a43" />
+
+
+<img width="1629" height="931" alt="soroban" src="https://github.com/user-attachments/assets/87fcd717-8193-4f9a-b090-5c06bfe44e6f" />
+
