@@ -1,0 +1,12 @@
+# Python Sanal Ortamı
+venv/
+__pycache__/
+*.pyc
+
+# Node.js (Sentinel ve soroban-examples için)
+node_modules/
+package-lock.json
+
+# Gizli Anahtarlar (ÇOK ÖNEMLİ)
+keys.txt
+.env
